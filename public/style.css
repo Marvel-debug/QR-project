@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    color: skyblue;
+}
+
+hr{
+    width: 500px;
+    border: 3px groove silver;
+}
+
+textarea{
+    border-radius: 10px;
+}
+
+.error {
+    color: red;
+    margin: 10px 0;
+}
